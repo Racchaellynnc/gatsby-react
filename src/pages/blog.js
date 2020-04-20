@@ -10,8 +10,8 @@ return (
         <PrimaryLayout column="col-xs-6">
             {data.allWordpressPost.nodes.map(node => (
             <Post 
-                // alt={node.featured_media.slug}
-                // image={node.featured_media.source_url}
+                alt={node.featured_media.slug}
+                image={node.featured_media.source_url}
                 title={node.title}
                 excerpt={node.excerpt}
                 readMore={node.slug}
