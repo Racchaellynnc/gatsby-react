@@ -1,0 +1,20 @@
+.navbar {
+    background-color: white;
+    color: #2A363B!important;
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: -7px -4px 20px 0px #99b898;
+    font-weight: 200;
+    font-size: 22px;
+    display: flex;
+    flex-direction: row-reverse !important;
+}
+.navbars{
+    color: #ff847c !important;
+}
+.navbarname{
+    color: #2A363B!important;
+    flex-direction: row;
+    float: left;
+}
+
