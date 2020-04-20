@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Coderality",
+    title: "Gatsby",
     description: "Our blog is focused on JavaScript topics and how to get started.",
     keywords: "Coderality, Coder Blog, Code Blog, JavaScript, Learning JavaScript",
     image: "./static/vrimage.png",
